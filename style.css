@@ -12,4 +12,5 @@ body {
   font-weight: bolder;
   color: inherit;
   font-decoration: underline overline;
+  font-style: italic;
 }
