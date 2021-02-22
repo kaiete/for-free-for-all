@@ -11,5 +11,5 @@ body {
 .title {
   font-weight: bolder;
   color: inherit;
-  font-decoration: underline, overline;
+  font-decoration: underline overline;
 }
